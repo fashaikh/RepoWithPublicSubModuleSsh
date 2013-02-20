@@ -1,0 +1,3 @@
+[submodule "HelloKudu"]
+	path = HelloKudu
+	url = git@github.com:KuduApps/HelloKudu.git
